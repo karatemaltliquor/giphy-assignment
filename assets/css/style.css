@@ -1,0 +1,38 @@
+body{
+	background: url("images/funnyfaces.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+* {
+	box-sizing: border-box;
+}
+img { 
+    height: 150px;
+    width: 150px;
+}
+.btn {
+    margin: 3px;
+    color: black;
+    background-color: #ccda13;
+    border-color: black;
+}
+
+.gifDiv{
+
+    float: left;
+    margin: 3px;
+}
+.container {
+	background-color: #fff;
+	padding: 20px;
+}
+.jumbotron {
+    background-color: inherit;
+}
+.jumbotron .h1, .jumbotron h1 {
+    text-align: center;
+}
+
+
+
